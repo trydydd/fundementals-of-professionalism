@@ -1,4 +1,4 @@
-# fundementals-of-professionalism
+# fundamentals-of-professionalism
 
 Maintaining a professional demeanor and being a good coworker are essential components of a successful career. This guide will provide you with an understanding of key practices and principles that effective professionals follow to foster a productive and respectful workplace environment.
 
@@ -24,8 +24,6 @@ Maintaining a professional demeanor and being a good coworker are essential comp
 
 7. **Be Adaptable and Open to Change**
    Embrace new ideas, technologies, and strategies. Being flexible and adaptable helps you stay current and relevant in an ever-changing professional landscape.
-   
-   ## Key Principles of Effective Professionals
 
 1. **Respect and Value Diversity**
    Recognize and appreciate the unique perspectives and experiences of your colleagues. Encourage an inclusive and diverse workplace that fosters collaboration and innovation.
